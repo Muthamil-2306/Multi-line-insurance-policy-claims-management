@@ -260,7 +260,8 @@ B.E. Computer Science and Engineering
 - Testing and documentation
 
 ### Team Member 2
-**[TEAM MEMBER 2 NAME]**
+**BHUVANESH C T**
+B.E. Computer Science and Engineering
 
 **Primary Contributions:**
 - Claims Management
@@ -269,7 +270,8 @@ B.E. Computer Science and Engineering
 - Claims workflow testing
 
 ### Team Member 3
-**[TEAM MEMBER 3 NAME]**
+**HARIHARAN R**
+B.E. Computer Science and Engineering
 
 **Primary Contributions:**
 - Lightning Web Components
