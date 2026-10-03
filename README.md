@@ -260,7 +260,7 @@ B.E. Computer Science and Engineering
 - Testing and documentation
 
 ### Team Member 2
-**BHUVANESH C T**
+**BHUVANESH C T**  
 B.E. Computer Science and Engineering
 
 **Primary Contributions:**
@@ -270,7 +270,7 @@ B.E. Computer Science and Engineering
 - Claims workflow testing
 
 ### Team Member 3
-**HARIHARAN R**
+**HARIHARAN R**  
 B.E. Computer Science and Engineering
 
 **Primary Contributions:**
